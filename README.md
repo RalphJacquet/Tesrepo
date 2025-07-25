@@ -1,2 +1,2 @@
 # Tesrepo
-Creating test repo for demo use
+Use in september of 1990 fall semester.
